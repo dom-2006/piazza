@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78545247170",
+    "project_id": "servidor-db7ec",
+    "storage_bucket": "servidor-db7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78545247170:android:d9214cf29eb96ae493945b",
+        "android_client_info": {
+          "package_name": "com.example.piazza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Rp7HFY1Uywx3WFAqyopxikWMq1ndUS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
